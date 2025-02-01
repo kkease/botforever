@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: sh entrypoint.sh
